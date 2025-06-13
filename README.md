@@ -1,5 +1,7 @@
 Клонировать проект
 
+Запустить: composer update
+
 Стартовать БД с помощью docker compose up -d
 
 Запустить миграцию: ./yii migrate
