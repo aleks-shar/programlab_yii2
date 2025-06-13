@@ -10,4 +10,10 @@
 
 Bearer token для доступа к rest: 100-token
 
+GET /api/entities: получение списка всех сущностей;
+POST /api/entities: создание новой сущности;
+GET /api/entities/1: получение информации по конкретной сущности с id равным 1;
+PATCH /api/entities/1 и PUT /api/entities/1: изменение информации по сущности с id равным 1;
+DELETE /api/entities/1: удаление сущности с id равным 1;
+
 
